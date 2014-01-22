@@ -1,0 +1,17 @@
+<!--grab button header -->
+<div class="grab-button" style="width: 150px; margin: 0 auto;">
+<img src="http://www.creativekristi.com/wp-content/images/creative-kristi-button.png" alt="YOUR BLOG NAME" width="150" height="150" />
+<!--end grab button header -->
+<!-- button code box -->
+<div style="margin: 0;
+padding: 0;
+border: 1px solid gray;
+width: 150px;
+height: 150px;
+overflow: scroll;">
+&lt;div class="YOUR-BLOG-NAME" style="width: 150px; margin: 0 auto;">
+&lt;a href="http://www.creativekristi.com" rel="nofollow">
+&lt;img src="http://www.creativekristi.com/wp-content/images/creative-kristi-button.png" alt="YOUR BLOG NAME" width="150" height="150" />
+&lt;/a>
+&lt;/div>
+</div> <!--end grab-button --></div>
